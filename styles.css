@@ -144,4 +144,29 @@ nav button{
     background: #F7F6F2;
 }
 
+.footer-bg {
+    background: #001931;
+}
 
+
+
+.flex-5 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.padding {
+    padding: 50px;
+}
+
+.border-top {
+    border-top: white;
+    border: 2px;
+}
+
+button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
